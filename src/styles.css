@@ -1,0 +1,17 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input,
+select {
+  margin: 0 10px;
+}
+
+button {
+  margin: 0 5px;
+}
